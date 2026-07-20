@@ -1,6 +1,6 @@
 ### Burke Holland
 
-Technologist, author, speaker, creator, and Distinguished Slopopotamous. Developer at Microsoft on the Copilot CLI team, where I focus on AI-powered development.
+Technologist, author, speaker, creator, and Distinguished Slopopotamous. Working at Microsoft / GitHub where I focus on AI-powered development.
 
 I write at [burkeholland.github.io](https://burkeholland.github.io) and make videos on [YouTube](https://youtube.com/burkeholland).
 
